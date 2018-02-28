@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{51857B3B-FCB0-4017-A831-BB0D968BB7FD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WordPredictor.Test/WordControllerTest.cs">
+    <Files>
+      <File FileName="WordPredictor/DAL/WordContext.cs" Line="13" Column="23" />
+      <File FileName="WordPredictor/Controllers/WordController.cs" Line="32" Column="14" />
+      <File FileName="WordPredictor/DAL/Seed.cs" Line="18" Column="21" />
+      <File FileName="WordPredictor.Test/WordControllerTest.cs" Line="14" Column="44" />
+      <File FileName="WordPredictor/Program.cs" Line="19" Column="1" />
+      <File FileName="WordPredictor/Startup.cs" Line="34" Column="28" />
+      <File FileName="WordPredictor/Controllers/HomeController.cs" Line="14" Column="10" />
+      <File FileName="WordPredictor/Views/Word/Index.cshtml" Line="20" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="WordPredictor" expanded="True">
+            <Node name="WordPredictor.Test" expanded="True">
+              <Node name="WordPredictor" expanded="True">
+                <Node name="Test" expanded="True">
+                  <Node name="WordControllerTest" expanded="True" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.WordPredictor PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

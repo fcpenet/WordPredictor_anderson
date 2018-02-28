@@ -1,0 +1,9 @@
+﻿@model IEnumerable<WordPredictor.Models.Word>
+
+<div>
+    <ul>
+@foreach (var word in Model){
+    <li>@Html.DisplayFor(modelItem => word.Phrase)</li>
+        }
+            </ul>
+</div>

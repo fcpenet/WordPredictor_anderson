@@ -1,0 +1,11 @@
+/Users/geneva/Workspace/WordPredictor/WordPredictor/bin/Debug/netcoreapp2.0/WordPredictor.deps.json
+/Users/geneva/Workspace/WordPredictor/WordPredictor/bin/Debug/netcoreapp2.0/WordPredictor.runtimeconfig.json
+/Users/geneva/Workspace/WordPredictor/WordPredictor/bin/Debug/netcoreapp2.0/WordPredictor.runtimeconfig.dev.json
+/Users/geneva/Workspace/WordPredictor/WordPredictor/bin/Debug/netcoreapp2.0/WordPredictor.dll
+/Users/geneva/Workspace/WordPredictor/WordPredictor/bin/Debug/netcoreapp2.0/WordPredictor.pdb
+/Users/geneva/Workspace/WordPredictor/WordPredictor/obj/Debug/netcoreapp2.0/WordPredictor.csprojResolveAssemblyReference.cache
+/Users/geneva/Workspace/WordPredictor/WordPredictor/obj/Debug/netcoreapp2.0/WordPredictor.csproj.CoreCompileInputs.cache
+/Users/geneva/Workspace/WordPredictor/WordPredictor/obj/Debug/netcoreapp2.0/WordPredictor.AssemblyInfoInputs.cache
+/Users/geneva/Workspace/WordPredictor/WordPredictor/obj/Debug/netcoreapp2.0/WordPredictor.AssemblyInfo.cs
+/Users/geneva/Workspace/WordPredictor/WordPredictor/obj/Debug/netcoreapp2.0/WordPredictor.dll
+/Users/geneva/Workspace/WordPredictor/WordPredictor/obj/Debug/netcoreapp2.0/WordPredictor.pdb
